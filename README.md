@@ -23,7 +23,7 @@
 
   <p align="center">
   <kbd>
-  <img width="400" style="border-radius: 5px" height="450" src="https://github.com/panda12332145/calculator-with-gui-in-python/blob/main/github%20assets/Menu.jpg">
+  <img width="280" style="border-radius: 5px" height="400" src="https://github.com/panda12332145/calculator-with-gui-in-python/blob/main/github%20assets/Menu.jpg">
   </kbd>
   </p>
 
