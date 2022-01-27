@@ -14,7 +14,7 @@ pif = False
 def click_igual():
 	segundo_numero = tela.get()
 	tela.delete(0, END)
-	pif = false
+	pif = False
 	if matematica == "soma":
 		tela.insert(0, p_numero + float(segundo_numero))
 	if matematica == "subtracao":
